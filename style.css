@@ -4,8 +4,19 @@ background: indigo
 h1{
 text-align: center;
 font-size: 40px;
-color: white
+color: rgb(70, 38, 38);
+border: 10px solid;
 }
-p{
+.explicação{
+background-color: cadetblue;
 font-size: 30px
+}
+.funções{
+    font-size: 30px;
+}
+.Tópicos{
+    background-color: antiquewhite;
+}
+.imagens{
+    display: block;
 }
